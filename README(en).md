@@ -23,8 +23,11 @@ Dark Rider is a responsive character sheet card featuring smooth 3D animations a
 
 ## Project Structure
 ├── index.html
+
 ├── styles.css
+
 ├── script.js
+
 └── README(en).md
 
 
