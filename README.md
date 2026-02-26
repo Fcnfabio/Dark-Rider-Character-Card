@@ -23,9 +23,12 @@ Dark Rider es una ficha de personaje responsiva con animaciones 3D suaves y efec
 
 ## Estructura del Proyecto
 ├── index.html
+
 ├── styles.css
+
 ├── script.js
-└── README(es).md
+
+└── README.md
 
 
 ## Instalación
